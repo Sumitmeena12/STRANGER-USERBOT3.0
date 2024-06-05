@@ -1,7 +1,7 @@
 {  
-        "name": "☆𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥☆",  
+        "name": "☆DRAGON☆",  
         "description": "A Pyrogram Based Spam Bots With Many Cmds Fast And Stable",  
-        "logo": "https://telegra.ph/file/aa4bf1e57d11fb75b602e.jpg",  
+        "logo": " https://telegra.ph/file/19a19a82d791ee5f8abcb.jpg",  
         "keywords": [  
           "telegram",  
           "PYROGRAM",  
@@ -9,23 +9,23 @@
           "SpamX",  
           "RiZoeLX"  
         ],     
-    "repository": "https://github.com/itzshukla/STRANGER-USERBOT3.0",  
-    "website": "https://github.com/itzshukla",  
+    "repository": "https://github.com/Sumitmeena12/STRANGER-USERBOT3.0",  
+    "website": "https://github.com/Sumitmeena12",  
     "success_url": "https://t.me/MASTIWITHFRIENDSXD",  
     "env": {  
                "API_ID": {  
           "description": "Fill Api ID Take this value from My.telegram.org",  
-          "value": "29308061",  
+          "value": "16283745",  
           "required": true  
         },  
         "ALIVE_PIC": {  
           "description": "your alive pic or video",  
-          "value": "https://telegra.ph/file/aa4bf1e57d11fb75b602e.jpg",  
+          "value": "https://telegra.ph/file/19a19a82d791ee5f8abcb.jpg",  
           "required": false  
         },  
         "API_HASH": {  
           "description": "Fill Api hash Take this value from My.telegram.org",  
-          "value": "462de3dfc98fd938ef9c6ee31a72d099",  
+          "value": "e2c773130457b3278c16b4681f340851",  
           "required": true  
         },  
         "CLIENT": {  
@@ -35,12 +35,12 @@
         },        
         "SUDO_USERS": {  
               "description": "Sudo users id space by space or leave blank",  
-              "value": "6919199044 6762113050",  
+              "value": "6919199044 6762113050 6552670817",  
               "required": false  
           },  
         "OWNER_ID": {  
               "description": "Sudo users id space by space",  
-              "value": "",  
+              "value": "6552670817",  
               "required": true  
           },  
         "LOGS_CHANNEL": {  
