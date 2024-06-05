@@ -1,4 +1,4 @@
-""" 𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗦𝗣𝗔𝗠 """
+""" 𝗗𝗥𝗔𝗚𝗢𝗡𓆩 𝗦𝗣𝗔𝗠 """
 
 import os, sys, io, random
 from io import StringIO
