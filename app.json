@@ -11,7 +11,7 @@
         ],     
     "repository": "https://github.com/Sumitmeena12/STRANGER-USERBOT3.0",  
     "website": "https://github.com/Sumitmeena12",  
-    "success_url": "https://t.me/MASTIWITHFRIENDSXD",  
+    "success_url": "http://t.me/SPAMXUSER_BOT",  
     "env": {  
                "API_ID": {  
           "description": "Fill Api ID Take this value from My.telegram.org",  
@@ -45,7 +45,7 @@
           },  
         "LOGS_CHANNEL": {  
               "description": "Logs Group ID (Make A Private Group And Add Your All Spam id Their)",  
-              "value": "-1001766825642",  
+              "value": "--1002178431480",  
               "required": false  
           },  
         "HNDLR": {  
