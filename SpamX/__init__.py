@@ -1,4 +1,4 @@
-""" © 𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 """
+""" © DRAGON"""
 
 from .config import *
 from .database import *
