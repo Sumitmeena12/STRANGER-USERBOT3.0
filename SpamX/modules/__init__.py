@@ -8,9 +8,9 @@ import platform
 __version__ = __version__
 
 
-ping_msg = PING_MSG if PING_MSG else "⚡️𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥⚡️"
-pic = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/aa4bf1e57d11fb75b602e.jpg"
-amsg = ALIVE_MSG if ALIVE_MSG else"⚡️𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗦𝗣𝗔𝗠⚡️"
+ping_msg = PING_MSG if PING_MSG else "⚡️𝗗𝗥𝗔𝗚𝗢𝗡𓆩⚡️"
+pic = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/19a19a82d791ee5f8abcb.jpg"
+amsg = ALIVE_MSG if ALIVE_MSG else"⚡️𝗗𝗥𝗔𝗚𝗢𝗡𓆩 𝗦𝗣𝗔𝗠⚡️"
 
 try:
    sah = RiZoeL.get_users(OWNER_ID)
@@ -22,10 +22,10 @@ class Alive:
      Pic = pic
      
      msg = f"""
-      **[⚡️𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥⚡️](https://t.me/SHIVANSH474)
+      **[⚡️𝗗𝗥𝗔𝗚𝗢𝗡𓆩⚡️](https://t.me/dragondpworld)
 ◈ •━━━━━★✦♡✦★━━━━━• ◈ 
 
-➪ **𝗠ᴀsᴛᴇʀ:** [⚡️𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛⚡️](https://t.me/ITSZ_SHIVANSH)
+➪ **𝗠ᴀsᴛᴇʀ:** [⚡️𝗗𝗥𝗔𝗚𝗢𝗡𓆩⚡️](https://t.me/Farzicoderxd)
 
 ➪ **𝗣ʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:**`{platform.python_version()}`
 
