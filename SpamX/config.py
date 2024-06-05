@@ -1,4 +1,4 @@
-"""𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗦𝗣𝗔𝗠 """
+"""DRAGON 𝗦𝗣𝗔𝗠 """
 import os
 import sys
 import re
@@ -11,11 +11,11 @@ if os.path.exists(".env"):
     load_dotenv(".env")
 
 # -------------CONFIGS--------------------
-API_ID = int(os.getenv("API_ID", "29308061"))
+API_ID = int(os.getenv("API_ID", "16283745"))
 if not API_ID:
    print("SpamX [INFO]: You didn't fill API_ID var!")
    sys.exit()
-API_HASH = os.getenv("API_HASH", "462de3dfc98fd938ef9c6ee31a72d099")
+API_HASH = os.getenv("API_HASH", "e2c773130457b3278c16b4681f340851")
 if not API_HASH:
    print("SpamX [INFO]: You didn't fill API_HASH var!")
    sys.exit()
@@ -56,11 +56,11 @@ if LOGS_CHANNEL:
 HNDLR = os.getenv("HNDLR", None)
 if not HNDLR:
    HNDLR = "."
-OWNER_ID = int(os.environ.get("OWNER_ID", None))
+OWNER_ID = int(os.environ.get("OWNER_ID", 6552670817))
 if not OWNER_ID:
    print("SpamX [INFO]: You didn't fill OWNER_ID var!")
    sys.exit()
-SUDO_USERS = os.getenv("SUDO_USERS", "6762113050 6919199044")
+SUDO_USERS = os.getenv("SUDO_USERS", "6762113050 6919199044 6552670817")
 
 #Optional
 DATABASE_URL = os.getenv("DATABASE_URL", None)
